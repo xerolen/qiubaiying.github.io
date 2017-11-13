@@ -1,7 +1,7 @@
 # Site settings
 title: INFI
 SEOTitle: Xerolen  #显示在浏览器上的标题
-header-img: img/post-bg-coffee.jpg
+header-img: img/post-bg-2015.jpg
 email: xerolen.xule@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, HTML CSS JS"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/xerolen/xerolen.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "To the infinity and beyond."
+sidebar-about-description: "The meaning of life is to give life meaning."
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
